@@ -1,5 +1,4 @@
 import time
-# NOTE : NOT EVERYTHING HERE IS AS IMPORTANT AS IT SEEMS
 import hashlib
 import base64
 import zlib
